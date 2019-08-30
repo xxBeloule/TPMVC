@@ -1,0 +1,19 @@
+{
+    "name": "belal/tp-1-pdo-master",
+    "description": "TP-MVC",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "xxBeloule",
+            "email": "trezaaqq@hotmail.fr"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    "psr-4": {
+        "Models\\": "models/",
+         "Utils\\": "Utils/"
+        }
+    }
+}
